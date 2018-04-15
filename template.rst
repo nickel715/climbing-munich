@@ -1,24 +1,25 @@
 <name>
 ======
 
-<description>
+<beschreibung>
 
-.. image:: images/<name>.jpg
+.. bild:: images/<name>.jpg
 
-==================== ======================
-Distance             xkm | xh (Directions_)
-Direction            South/...
+==================== ========================
+Entfernung           x km | xh xm  (Google_Maps_)
+Ausrichtung          Süd/...
 Topo                 Topo_
-Best weather         Summer/Spring
-Cell phone reception LTE/yes/no/Bad
-==================== ======================
+Beste Zeit           Frühling/Sommer...
+Zustieg              ca x min
+Handyempfang         LTE/ja/nein/schlecht/...
+==================== ========================
 
-Approache
----------
+Zustieg
+-------
 
 
-Special requirements
---------------------
+Besonderheiten
+--------------
 
 .. _Topo:
 .. _Directions:

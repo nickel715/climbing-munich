@@ -1,25 +1,26 @@
 Ruhpolding
 ==========
 
-Nice slab climbing on a sunny wall
+Nette Plattenkletterei an einer Sonnigen Wand mit kurzem Zustieg
 
 ==================== ======================
-Distance             123km | 1h 20m  (Directions_)
-Direction            South
-Best weather         Spring
-Cell phone reception Unkown
+Entfernung           123 km | 1h 20m  (Google_Maps_)
+Ausrichtung          Süd
+Beste Zeit           Frühling
+Zustieg              ca 5 min
+Handyempfang         Unbekannt
 ==================== ======================
 
-Approache
----------
+Zustieg
+-------
 
-Parking at the Directions_, walk 5 mins to the wall over good paths.
+Parken bei Google_Maps_, 5 minuten Zustieg über schotterweg
 
-Specials
---------
+Besonderheiten
+--------------
 
-* For some routes you need a rope longer than 60m
-* In the left sector, the routes on the right seems to be outdated in the topo, at least they were hard to find
-* The left route is overgrown and if you lucky you can spot a snake
+* Für machen Routen benötigt man ein Seil länger als 60m
+* Im Linken Sektor scheinen die Routen rechts im Topo nicht mehr zu stimmen oder sind zumindest schwer zu finden
+* Im Linken Sektor die ganz linke route ist etwas zugewachsen und mit viel Lockerem Material. Mit etwas Glück kann man in einer Ritze eine Schlange entdecken
 
-.. _Directions: https://goo.gl/maps/hEmkqPnRrbv
+.. _Google_Maps: https://goo.gl/maps/hEmkqPnRrbv
