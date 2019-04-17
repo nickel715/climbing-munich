@@ -8,7 +8,7 @@ Entfernung           123 km | 1h 20m  (Google_Maps_)
 Ausrichtung          Süd
 Beste Zeit           Frühling
 Zustieg              ca 5 min
-Handyempfang         Unbekannt
+Handyempfang         Ja aber kaum Internet
 ==================== ======================
 
 Zustieg
